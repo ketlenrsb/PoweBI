@@ -7,3 +7,4 @@
 ### Aula 06 - Coluna Calculada e funções DAX básicas (SUM, DIVIDE, COUNT, DISTINCTCOUNT, AVERAGE, MAX, MIN)
 ### Aula 07 - CALCULATE, FILTER, SWITCH.
 ### Aula 08 - Funções DAX Data
+### Aula 09 - Funções DAX Horas
