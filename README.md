@@ -8,3 +8,4 @@
 ### Aula 07 - CALCULATE, FILTER, SWITCH.
 ### Aula 08 - Funções DAX Data
 ### Aula 09 - Funções DAX Horas
+### Aula 10 - Projeto de integração de API  doc planilhas e criação de site com formulário
